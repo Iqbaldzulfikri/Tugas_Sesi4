@@ -1,14 +1,11 @@
 Operator Aritmatika
-
 jumlahApel = 12
 jumlahTeman = 4
 
 apelPerTeman = jumlahApel / jumlahTeman
 print("setiap orang akan menerima apel sebanyak:",apelPerTeman)
-
 tambahanApel = 8
 totalApel = jumlahApel + tambahanApel
-
 print("total apel budi sekarang adalah sebanyak:",totalApel)
 setiap orang akan menerima apel sebanyak: 3.0
 total apel budi sekarang adalah sebanyak:
